@@ -11,6 +11,7 @@ A final grade of 100% was achieved for the first four courses. The fifth course 
 # Getting Started
 All code is run in a Jupyter Notebook, which comes with the [anaconda distribution](https://www.anaconda.com/). Also used in courses 3 and 4 is [Keras](https://keras.io/): a high-level neural networks API, written in Python, and which runs on top of the [TensorFlow Network](https://www.tensorflow.org/), which is also used in the courses.
 # Requirements
-To run this code you will need:
+Versions:
 - Python 3.6.5
-- Anaconda 4.5.4
+- Anaconda 4.5.4  
+

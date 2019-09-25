@@ -7,3 +7,6 @@ All code from this repository is for the programming assignments from the specia
 - [ ] Course 5: Sequence Models  
 
 A final grade of 100% was achieved for the first four courses. The fifth course is yet to be completed.
+
+# Getting Started
+All code is run in a Jupyter Notebook, which comes with the [anaconda distribution](https://www.anaconda.com/). Also used in courses 3 and 4 is [Keras](https://keras.io/): an high-level neural networks API, written in Python, and which runs on top of the [TensorFlow Network](https://www.tensorflow.org/), which is also used in the courses.
